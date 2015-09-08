@@ -1,2 +1,2 @@
 # PGLauncher
-This is a launcher for MMO game
+This is a launcher for a MMO game
